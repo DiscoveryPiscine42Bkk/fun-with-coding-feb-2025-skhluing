@@ -1,35 +1,40 @@
-body {
-    margin: 0px !important;
-    background-color: #000;
-  }
-  .container {
-    width: 100%;
+body,
+html {
     height: 100%;
-  }
-  
-  .first-image, .second-image {
-    background-image: url("https://img.freepik.com/free-photo/cloud-sky-twilight-times_74190-4017.jpg?semt=ais_hybrid");
-    min-height: 500px;
+    margin: 0;
+}
+
+.text{
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#parallax1 {
+
+    background-image: url("https://media.istockphoto.com/id/697120006/photo/amazing-cloudscape-on-the-sky.jpg?s=612x612&w=0&k=20&c=6GK5lZu6xbOpVBNw4tnyoMiu_O8JrD6Et1-TM2b6dqg=");
+
+    height: 100%;
+
     background-attachment: fixed;
     background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+}
 
-  .second-image {
-    background-image: url("https://griffithobservatory.org/wp-content/uploads/2021/12/4-9-21-Summer-Milky-Way-over-JTree-1-scaled-1600x800-1640729588.jpg");
-  }
-  
-  h3 {
-    color: white;
-  }
-  
-  .content {
-    width: 100%;
-    text-align: center;
-    color: #fff;
-    padding: 20vh;
-    padding-left: 0;
-  }
+#blackbox{
+    height: 40%;
+    background-color: black;
+}
+
+#parallax2 {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/038/987/125/small_2x/ai-generated-glowing-star-trail-illuminates-dark-forest-silhouette-generated-by-ai-photo.jpg");
+
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
