@@ -8,7 +8,7 @@ body {
   }
   
   .first-image, .second-image {
-    background-image: url("https://img.chelseafc.com/image/upload/f_auto,c_fill,h_700,g_faces,ar_16:9,q_90/site-sections/stamford-bridge/stadium-tours/Website%20update/Stamford_Bridge_GettyImages-1800198672.jpg");
+    background-image: url("https://img.freepik.com/free-photo/cloud-sky-twilight-times_74190-4017.jpg?semt=ais_hybrid");
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -19,7 +19,7 @@ body {
   }
 
   .second-image {
-    background-image: url("https://pbs.twimg.com/media/E8XC9yPXIAcfH37.jpg:large");
+    background-image: url("https://griffithobservatory.org/wp-content/uploads/2021/12/4-9-21-Summer-Milky-Way-over-JTree-1-scaled-1600x800-1640729588.jpg");
   }
   
   h3 {
