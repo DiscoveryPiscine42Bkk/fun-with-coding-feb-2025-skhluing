@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .dropdown {
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  select {
+    background-color: rgb(100, 223, 253);
+    border: 0px solid rgb(157, 225, 252);
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: none;
+    cursor: pointer;
+    
+  }
+  
+  select:hover {
+    background-color: rgb(34, 168, 202);
+  }
+  
+ 
