@@ -131,6 +131,7 @@ footer {
     height: 30px;
     margin: 0 5px;
 }
+
 .home-button {
     display: inline-block; /* ทำให้ปุ่มมีขนาดที่กำหนดได้ */
     padding: 10px 20px; /* ระยะห่างภายในปุ่ม */
